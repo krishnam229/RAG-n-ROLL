@@ -3,6 +3,16 @@
 **A Local, Free, Daily Snapshot RAG System for Technology News**
 
 ---
+## 🎥 Project Demo Video
+
+▶️ **YouTube Link:**  
+https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+
+> This video demonstrates the full RAG’n’Roll pipeline, including:
+> - News ingestion (RSS)
+> - Embedding + FAISS indexing
+> - Streamlit interface
+> - Live query answering with citations
 
 ## 📌 Overview
 
