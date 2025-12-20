@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+feedparser
+trafilatura
+sentence-transformers
+faiss-cpu
+numpy
+requests
+pydantic
