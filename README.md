@@ -6,7 +6,7 @@
 ## 🎥 Project Demo Video
 
 ▶️ **YouTube Link:**  
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=6jSEGyZQi6w)
 
 > This video demonstrates the full RAG’n’Roll pipeline, including:
 > - News ingestion (RSS)
